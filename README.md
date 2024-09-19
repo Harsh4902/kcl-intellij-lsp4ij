@@ -1,1 +1,1 @@
-Demo plugin of KCL for Intellij
+Demo plugin of KCL for Intellij using LSP4IJ
